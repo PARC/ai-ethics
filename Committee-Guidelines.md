@@ -1,4 +1,4 @@
-# Committee Checklist
+# Committee Guidelines
 
 Document for the Committee to ask questions/mitigate the concerns of ethics in PARC projects
 
