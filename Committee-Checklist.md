@@ -6,6 +6,9 @@ Before starting a review consider whether or not any committee members have a
 conflict of interest related to the project. Can they be mitigated or should
 the members recuse themselves.
 
+If the scope of a project or the data changes in any significant way, projects
+should be sumbitted for review again.
+
 ## Business development ##
 
 - Does the project require IRB?
@@ -115,13 +118,6 @@ respect for individual autonomy must be considered.
 
 - Who will have the power to decide on necessary changes to the algorithmic system during design stage, pre-launch, and post-launch?
 
-## Last question ##
-
-- Have any of your answers to the questions above changed?
-- Has the data you are using changed?
-
-If yes, seek new approval.
-
 ## Post deployment:##
 
 - Is there a plan to take action to ensure individuals and groups have access
@@ -153,37 +149,4 @@ If yes, seek new approval.
 *Sources:* 
 - [Principles for Accountable Algorithms and a Social Impact Statement for Algorithms](https://www.fatml.org/resources/principles-for-accountable-algorithms#social-impact)
 - [How to Hold Algorithms Accountable](https://www.technologyreview.com/s/602933/how-to-hold-algorithms-accountable/)
-
-------
-
-- AI that uses data from individuals
-- AI that interacts with or affects humans
-
-*I suspect there are non-human impacts of AI that reach in to environmental impact (oil drilling, fracking, animal migrations) that could require study, think AI that impacts gov policy.  Though I want to be careful about expanding scope, I do believe it should be examined.*
-
-- data
-- environmental impact
-- societal
-  - where AI is being used to make a decision about a population
-  - AI decisions that could bias or alter societal norms
-- (mis)usage
-  - consider possible negative consequences
-  - consider possible malicious uses (purposely using it incorrectly) intentional misuse
-- 
-
-One area where the goals of this committee differ from an IRB is research (to a degree) has a finite time period. Though there are protocols in the IRB for what circumstances require re-review, we may want to develop our own standards and protocols for transfer of license, maintenance, follow up, etc. 
-
-1. What research/projects need to be reviewed?
-  - For IRB it’s defined by “research” with “human subjects”
-  - How is it defined for AI Ethics?
-    - AI that uses data from individuals
-    - AI that interacts with humans
-2. What research/projects are eligible for exemption?
-3. What research/projects are eligible for expedited review (low risk)?
-4. What are the penalties to not adhering to the Committees feedback?
-  - penalties vs. incentives
-  - is there an aspirational ranking system for AI Ethics?
-
-
-
 
