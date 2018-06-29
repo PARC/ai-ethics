@@ -1,1 +1,1 @@
-Add table of contents here to point to our other documents
+* [Committee-Guidelines](Committee-Guidelines.md)
