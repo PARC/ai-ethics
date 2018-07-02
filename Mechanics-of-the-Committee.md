@@ -21,7 +21,7 @@ When is there an intervention in the research?
 2. The Checklist
   1. Researchers use the the IRB checklist to see if the IRB needs to be involved
   2. Researchers use the the AI checklist to see if the IRB needs to be involved
-3. If the AI checklist is answered with “no” to any of the questions the AI committee needs to be involved
+3. If the AI checklist is answered with “yes” to any of the questions the AI committee needs to be involved
 4. Researchers prepare a slide deck to present to the AI review committee
 5. AI review committee mitigates risks
 6. AI review committee and researchers set check ins
