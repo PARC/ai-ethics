@@ -9,7 +9,6 @@ Format:
 
 Strategies to mitigate
 
-
 # Respect for persons
 
 Respect for persons incorporates at least two ethical convictions: 
