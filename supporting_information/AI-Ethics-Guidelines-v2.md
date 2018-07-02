@@ -4,23 +4,24 @@
 
 Format:
 
-# Topic
-## definition
+## Topic
+
+### definition
 
 Strategies to mitigate
 
-# Respect for persons
+## Respect for persons
 
 Respect for persons incorporates at least two ethical convictions: 
 
 - first, that individuals should be treated as autonomous agents, and 
 - second, that persons with diminished autonomy are entitled to protection. 
-- The principle of respect for persons thus divides into two separate moral requirements: the requirement to acknowledge the autonomy and the requirement to protect those with diminished autonomy 
+- The principle of respect for persons thus divides into two separate moral requirements: the requirement to acknowledge the autonomy and the requirement to protect those with diminished autonomy
 
-S*ource:* ***The National Commission 1979; The Belmont Report*
+*Source: The National Commission 1979; The Belmont Report*
 
+a. Autonomy
 
-  **a. Autonomy**
   - Autonomy means that people must be empowered to make decisions concerning their own actions and well-being.
   - [source: The Belmont Report]
 

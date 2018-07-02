@@ -1,6 +1,6 @@
 # Ethics Review Committee Statement
 
-## **Introduction** 
+## Introduction
 
 As machine learning and AI systems gain greater capabilities and are deployed more widely, we must consider both the positive and negative implications of their use. In light of this, PARC and its researchers recognize their obligation to protect and respect human rights. We understand the need to be vigilant against the potential for harm through intentional or inadvertent discrimination, unjust treatment, or physical danger that might occur against individuals or groups of people through the use of PARC technologies and innovations. Towards this end, we are committed to taking a proactive stance to upholding human rights and respecting individuals’ privacy, protection of data, freedom of expression, participation in cultural life, and their equality in the eyes of the law. We recognize the need for recourse in the face of negative judgement and decisions, and how the use of AI and technology in decision making has the potential to cut off access to appeal. Moreover, we acknowledge that the innovation work we do may have environmental implications and affect social systems and norms.
 
@@ -8,12 +8,13 @@ Contrary to views held by many, even those within the AI community, technology i
 
 For these reasons PARC has established the Ethics Review Committee to mitigate and provide appropriate safeguards against (harm). Following the guidelines set forth by the committee, we review projects according to the principles of …
 
-**Goals of the Committee**
+## Goals of the Committee
+
 The Ethics Review Committee has been established to provide assistance and guidance to the PARC research community. The committee provides consulting, training, and education related to ethics and technology. The consulting function helps teams assess the likelihood of risk and unexpected effects on people. It provides tools to help teams gauge the level of scrutiny needed at the start of a project. The committee is available to answer questions and judge ethical questions that arise in the course of a project lifecycle. Throughout the year, the committee provides presentations to the research labs to raise awareness of ethical concerns and promote best practices in the organization. Moreover, the committee leads discussions about real-life situations reported from the research community or appearing in the news. If incidents occur at PARC, the committee will perform analyses to better understand the situation to prevent similar problems from happening in the future.
 
 The committee has the additional goal of pursuing diversity, equity and, other means of inclusion within the PARC research community as a way to identify and also prevent inadvertent discrimination in our work.
 
-**Reason(s)/justification for this committee**
+## Reason(s)/justification for this committee
 
 - commercial client’s DARPA requesting information about our ethics guidelines and perspective
 - not just about data, but also algorithms
@@ -23,7 +24,7 @@ The committee has the additional goal of pursuing diversity, equity and, other m
 - We want to be proactive instead of reactive
 - We want to be transparent
 
-**What does the committee review?**
+## What does the committee review?
 
 - Respect for persons
   - a. Autonomy
@@ -38,28 +39,19 @@ The committee has the additional goal of pursuing diversity, equity and, other m
   - Take effective action to prevent and mitigate discrimination and document responses
   - Taking effective action to promote diversity
   - Taking effective action to promote inclusion
-  - Conflict of interest 
+  - Conflict of interest
 - Transparency, accuracy, and assumptions
   - Transparency about discrimination:
-  - To explain process and account for biases: 
+  - To explain process and account for biases:
 - Security
 - Privacy
 - Confidentiality
 - Maintenance and Compliance
 
-**What does the committee then do after reviewing a research?**
+## What does the committee then do after reviewing a research?
 
 - consult and educate
 - Best practices
 
-**Incident response**
+## Incident response
 If a failure occurs, the committee should understand it and prevent it in the future
-
-
-
-
-
-
-
-
-

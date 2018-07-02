@@ -1,15 +1,10 @@
 # Committee Guidelines
 
-Document for the Committee to ask questions/mitigate the concerns of ethics in PARC projects
+Document for the Committee to ask questions/mitigate the concerns of ethics in PARC projects. Before starting a review consider whether or not any committee members have a conflict of interest related to the project. Can they be mitigated or should the members recuse themselves.
 
-Before starting a review consider whether or not any committee members have a
-conflict of interest related to the project. Can they be mitigated or should
-the members recuse themselves.
+If the scope of a project or the data changes in any significant way, projects should be sumbitted for review again.
 
-If the scope of a project or the data changes in any significant way, projects
-should be sumbitted for review again.
-
-## Business development ##
+## Business development
 
 - Does the project require IRB?
   - Any study or focus group working with human subjects should go through IRB review.
@@ -18,8 +13,7 @@ should be sumbitted for review again.
   third-parties)
 - Do clients need advice related to transparency and accountability?
  
-
-## Data ##
+## Data
 
 Respect for people as individuals is important. Data analysis projects related
 to customers or actions of individuals may not include fully informed consent
@@ -46,7 +40,7 @@ the data to PARC.
   explicit and implicit biases and prejudices against certain populations and for
   the potential of withholding resources or information from populations that
   could benefit from the design or interaction. 
-   - If identified, is there a process to take effective action to mitigate
+  - If identified, is there a process to take effective action to mitigate
      discrimination? If not, is it documented?
 - For projects that have a significant risk of causing human rights
   abuses, is it possible to submit them for independent third party audits.
@@ -61,43 +55,31 @@ the data to PARC.
 - If appropriate, is there a way for data to be removed when necessary (e.g.
   European right to be forgotten)?
 
-## Social impact ##
+## Social impact
 
-  *AI decisions that could bias or alter societal norms*
+### AI decisions that could bias or alter societal norms
+
 - Are there particular groups which may be advantaged or disadvantaged, in the
   context in which you are deploying, by the algorithm / system you are building?
 - Is the potential there of damaging effect of uncertainty / errors to different groups?
 - Did you talk to people who are familiar with the subtle social context in which you are deploying? For example, you should consider whether the following aspects of people’s identities will have impacts on their equitable access to and results from your system: Race, Sex, Gender identity, Ability status, Socio-economic status, Education level, Religion, Country of origin.
 - When using human data, do the benefits outweigh the risks to those involved?
-- Has there been a calculation of the error rates and types (e.g., false
-  positives vs. false negatives) for different sub-populations and assess the
-  potential differential impacts?
-  - What are the effects of false positives or false negatives on the people
-    who are misclassified?
-- If physical devices are used, are they adequately secured from hacking or
-  subversion. For example, baby monitors were hijacked to launch [botnet
-attacks](https://gitlab-internal.parc.com/ai-ethics/ai-ethics-committee.git)
-- Consider the benefits of a project and the benefits or harms to those
-  affected by it. For example Michal Kosinski and Yilun Wang at Stanford
-  created a vision application that predicts sexual preference by analyzing
-  images of faces.
-  (https://www.economist.com/science-and-technology/2017/09/09/advances-in-ai-are-used-to-spot-signs-of-sexuality.)
-  There are almost no benefits from the technology but great potential costs when
-  it comes to impartiality and fairness. As The Economist put it, “in parts of
-  the world where being gay is socially unacceptable, or illegal, such an
-  algorithm could pose a serious threat to safety.”
+- Has there been a calculation of the error rates and types (e.g., false positives vs. false negatives) for different sub-populations and assess the potential differential impacts?
+  - What are the effects of false positives or false negatives on the people who are misclassified?
+- If physical devices are used, are they adequately secured from hacking or subversion. For example, baby monitors were hijacked to launch [botnet attacks](https://gitlab-internal.parc.com/ai-ethics/ai-ethics-committee.git)
+- Consider the benefits of a project and the benefits or harms to those affected by it. For example Michal Kosinski and Yilun Wang at Stanford created a vision application that predicts sexual preference by analyzing images of faces. [Advances in AI Are Used To Spot Signs of Sexuality](https://www.economist.com/science-and-technology/2017/09/09/advances-in-ai-are-used-to-spot-signs-of-sexuality) There are almost no benefits from the technology but great potential costs when it comes to impartiality and fairness. As The Economist put it, “in parts of the world where being gay is socially unacceptable, or illegal, such an algorithm could pose a serious threat to safety.”
 
+### Where AI is being used to make a decision about a population
 
-  *Where AI is being used to make a decision about a population*
 - Are the decisions produced by an algorithmic system explainable to the people affected by those decisions? These explanations must be accessible and understandable to the target audience; purely technical descriptions are not appropriate for the general public. (8th grade reading level is appropriate)
   - Is there an explanation of whom to contact for answers to questions about the research?
 
-## Environmental impact##
+## Environmental impact
 
 - Consider the energy impact of the computational resources necessary for the project. Is there a way to minimize that impact? Can the calculations be handled in a different way?
 - Do resources provisioned for the project match the requirements or are they too excessive?
 
-## Physical interaction ##
+## Physical interaction
 
 If the project is working with technology that interactions with people,
 respect for individual autonomy must be considered.
@@ -105,7 +87,7 @@ respect for individual autonomy must be considered.
 - Is there the equivalent of informed consent for the usage?
   - Will individuals interacting with the technology understand the capabilities and limits of it?
 
-## Misuse ##
+## Misuse
 
 - Is there a description of the ideal outcome of your design, including how this outcome looks across technological, cultural, social, institutional and organizational spheres.
   - Draw a timeline for 5-10 years in the future. Place your ideal outcome at the end of the timeline, and chart out potential obstacle and consequences leading up to it.
@@ -114,11 +96,11 @@ respect for individual autonomy must be considered.
 - Are there guardrails in place to prevent malicious usage (the intentional misuse of the design)?
 - Has the system been adequately secured to prevent unwarranted manipulation?
 
-## Miscellaneous ##
+## Miscellaneous
 
 - Who will have the power to decide on necessary changes to the algorithmic system during design stage, pre-launch, and post-launch?
 
-## Post deployment:##
+## Post deployment
 
 - Is there a plan to take action to ensure individuals and groups have access
   to meaningful remedy and redress. This may include, for example, creating
@@ -137,7 +119,7 @@ respect for individual autonomy must be considered.
   individuals, are informed of the harms and how they can challenge a decision or
   outcome.
 
-## Possible points of discussion ##
+## Possible points of discussion
 
 - Do you trust the client you’re working with?
 - Is the machine learning team pursuing diversity, equity and, other means of inclusion within machine learning development teams? (is the team working on the project diverse?) This will help to identify and prevent inadvertent discrimination.
@@ -146,7 +128,7 @@ respect for individual autonomy must be considered.
   side you will end up on, any side should be good." (e.g. John Rawls theory of
   justice)
 
-*Sources:* 
+## Sources
+
 - [Principles for Accountable Algorithms and a Social Impact Statement for Algorithms](https://www.fatml.org/resources/principles-for-accountable-algorithms#social-impact)
 - [How to Hold Algorithms Accountable](https://www.technologyreview.com/s/602933/how-to-hold-algorithms-accountable/)
-
