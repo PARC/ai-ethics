@@ -2,26 +2,46 @@
 
 *IRB and Ethics could be the same committee*, Folk interested in Ethics, nothing preventing from being IRB but not work on IRB.
 
-## Reading group
+## Assistance and Guidance to PARC Research Community
 
-- Keeping up to date about current state
+### Project Reviews
+
+1. When a new project starts PI goes through the checklist. If the
+(checklist)[AI-Ethics-Checklist.md] suggests that an ethics review is
+necessary, the PI should send a message to the committee email address.
+
+2. The committee sets a date for a review session. The PI fills in a slide
+template describing project and potential ethical risks and sends it to the
+committee.
+
+3. Committee members review information in template with respect to the
+(Guidelines)[Committee-Guidelines.md] to prepare for the review session.
+
+4. The PI and committee meet for the review session. Together they identify risks
+and plans to mitigate the risks. They may also determine whether on-going or
+periodic check-ins would be useful. (Should there be "seams" to make sure the
+on-going reviews happen?)
+
+5. After the project starts, the PI notifies the committee if anything changes
+that might necessitate another review.
+
+### General Consulting
+
+Researchers may send questions related to ethical matters for the committee to
+advise on or discuss.
+
+
+## Training and Education
+
+- Presentations at Lab meetings
+- Workshops (PARC internal and public)
+
+## Standing Committee Meeting
+
+Initially the committee will meet every week.
+
+- Reading group to keep up to date about current state
 - Discussions
-- Workshops
-- trip reports
+- Trip reports
+- Presentation preparation
 
-How often does the meet AI committee meet?
-When is there an intervention in the research?
-
-  What are check points?
-  How to design the “seems”?
-
-## Timeline
-
-1. A project comes to PARC/ researchers start a project
-2. The Checklist
-  1. Researchers use the the IRB checklist to see if the IRB needs to be involved
-  2. Researchers use the the AI checklist to see if the IRB needs to be involved
-3. If the AI checklist is answered with “yes” to any of the questions the AI committee needs to be involved
-4. Researchers prepare a slide deck to present to the AI review committee
-5. AI review committee mitigates risks
-6. AI review committee and researchers set check ins
