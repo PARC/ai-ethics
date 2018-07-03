@@ -1,6 +1,7 @@
 # Mechanics of the committee
 
-*IRB and Ethics could be the same committee*, Folk interested in Ethics, nothing preventing from being IRB but not work on IRB.
+The committee will serve both as an ethics review body and as an Internal
+Review Board for human subjects research.
 
 ## Assistance and Guidance to PARC Research Community
 
@@ -38,10 +39,21 @@ advise on or discuss.
 
 ## Standing Committee Meeting
 
-Initially the committee will meet every week.
+Initially the committee will meet every week. Meetings are open to anyone who
+would like to participate in discussions. Individuals who have not gone through
+the required trainings will not be part of reviews.
 
 - Reading group to keep up to date about current state
 - Discussions
 - Trip reports
 - Presentation preparation
+
+## Membership in the Committee
+
+With a combined ethics committee and IRB, each member must meet the minimum
+requirements of the IRB including IRB training as required. Beyond the minimum
+requirements others may volunteer to serve on the committee. All members must
+fulfill the training obligations as required by IRB rules and any others
+determined by the committee.
+
 
