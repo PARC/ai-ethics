@@ -25,7 +25,7 @@ Physical interaction should be thought of broadly including machinery and also a
 | **Question** | **Yes** | **No** |
 |---------------------------------|-----|----|
 | Is there heavy equipment or is it operating at high speed?  |  |  |
-| For cameras, microphones, or anything that records human likenesses or activity: |  |  |
+| For cameras, microphones, sensors, or anything that records human likenesses or activity: |  |  |
 | Is it in a public place? |  |  |
 | Is it hidden from anyone who might be recorded? In other words, could subjects be recorded without knowing they are being recorded?  |  |  |
 | Is it possible that any members of vulnerable populations (this could be any disadvantaged sub-segment of an overall population, e.g. children, prisoners, refugees, people facing discrimination) might be recorded?  |  |  |
