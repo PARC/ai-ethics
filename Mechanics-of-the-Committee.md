@@ -50,10 +50,7 @@ the required trainings will not be part of reviews.
 
 ## Membership in the Committee
 
-With a combined ethics committee and IRB, each member must meet the minimum
-requirements of the IRB including IRB training as required. Beyond the minimum
-requirements others may volunteer to serve on the committee. All members must
-fulfill the training obligations as required by IRB rules and any others
-determined by the committee.
+Anyone who works at PARC may volunteer to serve on the committee. All members must
+fulfill the training obligations determined by the committee.
 
 
