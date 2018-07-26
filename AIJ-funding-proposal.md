@@ -1,16 +1,16 @@
 # Launching an institutional AI Ethics Committee
 
 Following is a proposal in response to the AIJ call for funding opportunities
-for promoting AI research. We propose a workshop to discuss ethical concerns
-related to AI development and how organizations can form their own committees
-to help researchers review projects for potential ethical concerns and possible
-unintended negative impact. A small team of researchers at PARC recently went
-through the exercise of forming a committee, defining its mission, and
-developing the tools to be used in the ethics review of projects. The workshop
-agenda will include the PARC AI ethics committee describing the motivations and
-the process they followed to organize the PARC committee. We will include other
-organizations who have recently gone through similar steps as well as invited
-academics who focus on ethics and technology.
+for promoting AI research. We propose a workshop to discuss how organizations
+can form their advisory committees to help researchers review projects for
+potential ethical concerns and possible unintended negative impact. A small
+team of researchers at PARC recently went through the exercise of forming a
+committee, defining its mission, and developing the tools to be used in the
+ethical review of projects. The workshop agenda will include the PARC AI ethics
+committee describing the motivations and the process they followed to organize
+the PARC committee. We will include other organizations who have recently gone
+through similar steps as well as invited academics who focus on ethics and
+technology.
 
 ## _New or recurrent?_
 This proposal describes a new activity. Much of the current discussion about
@@ -20,8 +20,11 @@ AI being developed and deployed today.
 
 ## _What?_
 The requested funds will be used to provide a meal and refreshments to
-attendees and to pay the travel expenses of invited speakers. The workshop will
-be hosted at PARC and there will be no cost to attendees.
+attendees and to pay the travel expenses of invited speakers. The workshop
+will be hosted at PARC, and since we believe strongly in the societal benefits
+of such committees there will be no cost to attendees. The primary goal of the
+workshop is to demonstrate how a committee can review projects for possible
+ways that AI technology can cause harm to specific individuals and groups.
 
 ## _How Much?_
     A (high level) budget, in Euros , which:
@@ -32,16 +35,13 @@ be hosted at PARC and there will be no cost to attendees.
     funds in the event of a surplus.
 
 ## _Why?_
-The main concern addressed by the workshop is not about the economic impact of
-automation or some possible future risk but rather the ways that AI technology
-is already causing harm to specific individuals and groups of people affected
-by AI predictions, decision making tools and intelligent autonomous equipment
-(automobiles, for example). Institutional Review Boards were mandated for
-government funded projects involving human subjects studies because of past
-instances of harm that resulted from such studies. We are beginning to see
-similar harms resulting from deployed AI tools, and we believe institutional
-ethics review committees using a similar model can help to mitigate the
-negative effects.
+Institutional Review Boards were mandated for government-funded projects
+involving human subjects studies due to past instances of harm that resulted
+from such studies. With the increasing deployment of AI technology, we are
+beginning to see similar harms to specific individuals and groups affected by
+AI predictions, decision-making tools, and autonomous equipment (automobiles,
+for example). We believe that an institutional ethics review committee, using a
+model similar to that of an IRB, can help to mitigate those adverse effects.
 
 The workshop is designed to help organizations deal with these immediate issues
 and presents material and an opportunity for discussion that we don't believe
