@@ -2,7 +2,7 @@
 
 Following is a proposal in response to the AIJ call for funding opportunities
 for promoting AI research. We propose a workshop to discuss how organizations
-can form their advisory committees to help researchers review projects for
+can form advisory committees to help researchers review projects for
 potential ethical concerns and possible unintended negative impact. A small
 team of researchers at PARC recently went through the exercise of forming a
 committee, defining its mission, and developing the tools to be used in the
@@ -51,9 +51,9 @@ is happening in any other venues.
 
 ## _Who?_
 Members and employees of organizations that want to adopt a responsible and
-clearly defined position with regard to the societal impact of their work.
-Organizations who have already taken steps to mitigate concerns can also
-benefit and can contribute to the discussion and sharing of information.
+clearly defined position with regard to the social impact of their work.
+Organizations who have already taken steps to mitigate concerns can
+benefit and contribute to the discussion and sharing of information.
 
 ## _When?_
 Spring of 2019
@@ -65,5 +65,5 @@ Richelle Dumond
 Palo Alto, CA 94304
 
 richelle.dumond@parc.com
-(650) 812-XXXX
+(650) 812-4283
 
