@@ -59,11 +59,11 @@ benefit and contribute to the discussion and sharing of information.
 Spring of 2019
 
 ## _Where?_
-Palo Alto Research Center (PARC)
-Richelle Dumond
-3333 Coyote Hill Road
-Palo Alto, CA 94304
+Palo Alto Research Center (PARC)  
+Richelle Dumond  
+3333 Coyote Hill Road  
+Palo Alto, CA 94304  
 
-richelle.dumond@parc.com
-(650) 812-4283
+richelle.dumond@parc.com  
+(650) 812-4283  
 
