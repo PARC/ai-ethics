@@ -31,6 +31,7 @@ ways that AI technology can cause harm to specific individuals and groups.
 |-------------|-------:|
 Food and refreshments for 20 participants| $600
 Travel and hotel for 2 invited speakers| $3000
+Total| $3600|
 
 PARC will cover other incidental costs like materials
 
