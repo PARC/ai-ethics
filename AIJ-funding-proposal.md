@@ -27,12 +27,10 @@ workshop is to demonstrate how a committee can review projects for possible
 ways that AI technology can cause harm to specific individuals and groups.
 
 ## _How Much?_
-    A (high level) budget, in Euros , which:
-    clearly states the amount requested; provides details
-    of the use of requested funds; describes how the re-
-    quested amount fits into an overall budget for the ac-
-    tivity/event;  and  clearly  states  what  will  happen  to
-    funds in the event of a surplus.
+Food and refreshments for 20 participants| $600
+Travel and hotel for 2 invited speakers| $3000
+PARC will cover other incidental costs like materials
+
 
 ## _Why?_
 Institutional Review Boards were mandated for government-funded projects
@@ -54,16 +52,14 @@ Organizations who have already taken steps to mitigate concerns can also
 benefit and can contribute to the discussion and sharing of information.
 
 ## _When?_
-    Dates  of  the  proposed  activity,  and  date  by
-    which funding would be needed.  Applicants should
-    apply at least 3 months before the event's dates.
+Spring of 2019
 
 ## _Where?_
 Palo Alto Research Center (PARC)
-*contact details for the  responsible  party*
+Richelle Dumond
 3333 Coyote Hill Road
 Palo Alto, CA 94304
 
-XXXX@parc.com
+richelle.dumond@parc.com
 (650) 812-XXXX
 
