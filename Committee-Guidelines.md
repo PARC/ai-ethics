@@ -21,7 +21,7 @@ Respect for people as individuals is essential. Data analysis projects related t
 - If the project is for a public entity, can you disclose the sources of your data?
 - Has the provenance and veracity of the data been evaluated and have alternative data sources been considered?
 - Has there been a validity check performed by randomly sampling a portion of your data (e.g., input or training data) and manually checking its correctness? This check should be completed early in your development process before the derived information is used. Report the overall data error rate on this random sample to stakeholders. Data and algorithms should be vetted for explicit and implicit biases and prejudices against specific populations and for the potential of withholding resources or information from populations that could benefit from the design or interaction.
-  - If identified, is there a process to take effective action to mitigate discrimination? If not, is it documented?
+   - If identified, is there a process to take effective action to mitigate discrimination? If not, is it documented?
 - For projects that have a significant risk of causing human rights abuse, is it possible to submit them for independent third-party audits?
 - Can you provide for stakeholders auditing (i.e., probing, understanding, reviewing of system behavior) or is there sensitive information that would necessitate auditing by a designated 3rd party?
 - Did you/will you make sure that if data is needed to properly audit your algorithm, such as in the case of a machine-learning algorithm, that sample (e.g., training) data is made available?
@@ -34,13 +34,13 @@ Respect for people as individuals is essential. Data analysis projects related t
 ### AI decisions that could bias or alter societal norms
 
 - Are there particular groups which may be advantaged or disadvantaged, in the context in which you are deploying, or by the algorithm/system you are building?
-  - Are there particular groups which may be excluded from the advantages of the algorithm/system you are building? Can the system be changed to include these groups?
-  - Think about what services, products and industries, and perhaps jobs might be replaced by the deployment of the algorithm/system. How will this impact society?
+   - Are there particular groups which may be excluded from the advantages of the algorithm/system you are building? Can the system be changed to include these groups?
+   - Think about what services, products and industries, and perhaps jobs might be replaced by the deployment of the algorithm/system. How will this impact society?
 - Is the potential there for a damaging effect of uncertainty/errors on different groups?
 - Did you talk to people who are familiar with the subtle social context in which you are deploying? For example, consider whether the following aspects of people’s identities will have impacts on their equitable access to and results from your system: race, sex, gender identity, ability status, socio-economic status, education level, religion, country of origin.
 - When using human data, do the benefits outweigh the risks to those involved?
 - Has there been a calculation of the error rates and types (e.g., false positives vs. false negatives) for different sub-populations and assess the potential differential impacts?
-  - What are the effects of false positives or false negatives on the people who are misclassified?
+   - What are the effects of false positives or false negatives on the people who are misclassified?
 - If physical devices are used, are they adequately secured from hacking or subversion? For example, baby monitors were hijacked to launch [botnet attacks](https://gitlab-internal.parc.com/ai-ethics/ai-ethics-committee.git). 
 - Consider the benefits of a project and the benefits or harms to those affected by it. For example, Michal Kosinski and Yilun Wang at Stanford created a vision application that predicts sexual preference by analyzing images of faces. There are almost no benefits from the technology, but great potential costs when it comes to impartiality and fairness. As [The Economist](https://www.economist.com/science-and-technology/2017/09/09/advances-in-ai-are-used-to-spot-signs-of-sexuality) put it, “in parts of the world where being gay is socially unacceptable, or illegal, such an algorithm could pose a serious threat to safety.”
 
@@ -65,7 +65,7 @@ If the project is working with technology that interactions with people, respect
 ## Misuse and malicious intent
 
 - Is there a description of the ideal outcome of your design, including how this outcome looks across technological, cultural, social, institutional and organizational spheres.
-  - Draw a timeline for 5-10 years in the future. Place your ideal outcome at the end of the timeline, and chart out potential obstacle and consequences leading up to it. Repeat until you have three possible timelines. Did any of these timelines account for possible negative consequences?
+   - Draw a timeline for 5-10 years in the future. Place your ideal outcome at the end of the timeline, and chart out potential obstacle and consequences leading up to it. Repeat until you have three possible timelines. Did any of these timelines account for possible negative consequences?
 - Are there guardrails in place to prevent malicious usage (the intentional misuse of the design)?
 - Has the system been adequately secured to prevent unwarranted manipulation?
 
@@ -86,7 +86,7 @@ If the project is working with technology that interactions with people, respect
 ## Possible points of discussion
 
 - Do you trust the client you’re working with?
-- Is the machine learning team pursuing diversity, equity and, other means of inclusion within machine learning development teams? (is the team working on the project diverse?) This will help to identify and prevent inadvertent discrimination.
+- Is the machine learning team pursuing diversity, equity and, other means of inclusion within machine learning development teams (i.e.,is the team working on the project diverse)? This will help to identify and prevent inadvertent discrimination.
 - Imagine yourself as subject to all possible outcomes of a system, are they all equally fair and just from that point-of-view? "If you can't decide what side you will end up on, any side should be good." (e.g., John Rawls theory of justice)
 
 ## Sources
