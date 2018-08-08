@@ -28,6 +28,8 @@ and manually checking its correctness? This check should be completed early in t
 algorithms are developed or analyses are done. Does the overall data error rate on this random sample need to be reported to stakeholders. 
 Data and algorithms should be vetted for explicit and implicit biases and prejudices against specific populations. Consider whether there is the potential of withholding
 resources or information from populations that could benefit from the design or interaction.
+   - In instances where there is a risk of discrimination, include technical specification with details of the machine learning application
+and its functions, including samples of the training data used and details of the source of data.
    - If identified, is there a process to take effective action to mitigate discrimination? If not, is it documented?
 - For projects that have a significant risk of causing human rights abuse, is it possible to submit them for independent third-party audits?
 - Can the ability to audit (i.e., probing, understanding, reviewing of system behavior) be provided to stakeholders or is there sensitive information that would necessitate auditing by a designated 3rd party?
@@ -77,14 +79,16 @@ If the project is working with technology that interactions with people, respect
 
 - Is there the equivalent of informed consent for the usage?
 - Will individuals interacting with the technology understand the capabilities and limits of it?
+- Does the design minimize potential risk? 
+- Do the warning signals match the severity of the danger?
 
 ## Misuse and malicious intent
 
-- Is there a description of the ideal outcome of your design, including how this outcome looks across technological, cultural, social, institutional and organizational spheres.
-   - Draw a timeline for 5-10 years in the future. Place your ideal outcome at the end of the timeline, and chart out potential obstacle and consequences leading up to it. Repeat until you have three possible timelines. Did any of these timelines account for possible negative consequences?
+- Is there a description of the ideal outcome of the design, including how this outcome looks across technological, cultural, social, institutional and organizational spheres.
+   - Useful exercize: Draw a timeline for 5-10 years in the future. Place your ideal outcome at the end of the timeline, and chart out potential obstacle and consequences leading up to it. Repeat until you have three possible timelines. Did any of these timelines account for possible negative consequences?
 - Are there guardrails in place to prevent malicious usage (the intentional misuse of the design)?
 - Has the system been adequately secured to prevent unwarranted manipulation?
-- - If physical devices are used, are they adequately secured from hacking or subversion? 
+- If physical devices are used, are they adequately secured from hacking or subversion? 
 For example, baby monitors were hijacked to launch [botnet attacks](https://gitlab-internal.parc.com/ai-ethics/ai-ethics-committee.git).
 
 ## Miscellaneous
@@ -94,18 +98,17 @@ For example, baby monitors were hijacked to launch [botnet attacks](https://gitl
 ## Post deployment
 
 - Is there a plan to take action to ensure individuals and groups have access to meaningful remedy and redress. This may include, for example, creating clear, independent, and visible processes for redress following adverse individual or societal effects.
-- Is there a plan for what to do if the project has unintended consequences? This may be part of a maintenance plan and should involve post-launch monitoring plans.
-- Is there a sunset plan developed for the system to manage algorithm or data risks after the product is no longer in active development?
-- Did you determine how to communicate the uncertainty/margin of error for each decision?
 - What will the reporting process and process for recourse be?
-- In instances where there is a risk of discrimination, include technical specification with details of the machine learning application and its functions, including samples of the training data used and details of the source of data.
-- Establish mechanisms to ensure that where discrimination has occurred as a result of a decision-making algorithm, relevant parties, including affected individuals, are informed of the harms and how they can challenge a decision or outcome.
+- Is there a plan for what to do if the project has unintended consequences? This may be part of a maintenance plan and should involve post-launch monitoring plans.
+   - Establish mechanisms to ensure that where discrimination has occurred as a result of a decision-making algorithm, relevant parties, including affected individuals, are informed of the harms and how they can challenge a decision or outcome.
+- Is there a sunset plan developed for the system to manage algorithm or data risks after the product is no longer in active development?
+- Did the team determine how to communicate the uncertainty/margin of error for each decision?
 
 ## Possible points of discussion
 
 - Do you trust the client you’re working with?
-- Is the machine learning team pursuing diversity, equity and, other means of inclusion within machine learning development teams (i.e.,is the team working on the project diverse)? This will help to identify and prevent inadvertent discrimination.
-- Imagine yourself as subject to all possible outcomes of a system, are they all equally fair and just from that point-of-view? "If you can't decide what side you will end up on, any side should be good." (e.g., John Rawls theory of justice)
+- Is the the group pursuing diversity, equity and, other means of inclusion within the teams (i.e.,is the team working on the project diverse)? This will help to identify and prevent inadvertent discrimination.
+- Useful exercize: Imagine yourself subject to all possible outcomes of a system, are they all equally fair and just from that point-of-view? (e.g., John Rawls theory of justice)
 
 ## Sources
 
