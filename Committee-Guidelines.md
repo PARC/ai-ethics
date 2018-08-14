@@ -1,24 +1,38 @@
 # Committee Guidelines
 
-This document helps the AI Ethics Committee ask questions to mitigate ethical concerns in PARC projects.
-Before starting the review of a PARC project, consider whether or not any of the committee members have a conflict of interest related to the project. If so, can these be mitigated or should the members recuse themselves?
+This document helps the AI Ethics Committee ask questions to mitigate ethical
+concerns in PARC projects. Before starting the review of a PARC project,
+consider whether or not any of the committee members have a conflict of
+interest related to the project. If so, can these be mitigated or should the
+members recuse themselves?
 
 If the scope of a project, or the data it uses, changes in any significant way, projects should be submitted for review again.
 
 ## Business development
 
-- Does the project require an IRB review? Any study or focus group working with human subjects should go through the IRB review.
-- Is there a plan to provide transparency to all stakeholders when the project or data will be handed off to other parties (e.g., transitive consent through third-parties)?
+In addition to developing technology, PARC often provides expertise to
+clients. Many clients are not aware of the issues in safeguarding their
+customers' information or protecting their interests. Furthermore, there may be
+legal requirements when conducting studies or focus groups with human subjects
+or handling special types of data like that produced in a healthcare setting.
+
+- Does the project require an IRB review? Any study or focus group working with
+  human subjects should go through the IRB review.
+- Is there a plan to provide transparency to all stakeholders when the project
+  or data will be handed off to other parties (e.g., transitive consent through
+  third-parties)?
 - Do clients need advice related to transparency and accountability?
 - Have steps been taken to anonymize and remove any data that is not necessary for the analysis? If possible, the client should remove and anonymize sensitive information before delivering the data to PARC.
- 
 
 ## Data
 
-Respect for people as individuals is essential. Data collection of personal information and behavior may include less than fully informed consent from the subjects.
-Think about how the analysis might affect each subject involved. 
-If the data represents any vulnerable individuals (elderly, e.g.) or individuals with diminished autonomy (children, e.g.) special consideration should be given to their protection. 
-People should have their individuality and autonomy respected, and steps should be taken to protect them from harm.
+Respect for people as individuals is essential. Data collection of personal
+information and behavior may include less than fully informed consent from the
+subjects. Think about how the analysis might affect each subject involved. If
+the data represents any vulnerable individuals (elderly, e.g.) or individuals
+with diminished autonomy (children, e.g.) special consideration should be given
+to their protection. People should have their individuality and autonomy
+respected, and steps should be taken to protect them from harm.
 
 - Has the PI taken appropriate data protection steps considering the sensitivity of the data and does it conform to rules required by its data classification (PII, HIPAA, ITAR, etc.)?
 - If the project is for a public entity, can you disclose the sources of your data?
@@ -35,7 +49,7 @@ and its functions, including samples of the training data used and details of th
 - Can the ability to audit (i.e., probing, understanding, reviewing of system behavior) be provided to stakeholders or is there sensitive information that would necessitate auditing by a designated 3rd party?
 - If data is needed to properly audit the algorithm, such as in the case of a machine-learning algorithm, can the sample data (e.g., training) be made available?
 - Is there a plan to communicate the decisions about trade-offs project assumptions, shortcomings, error rates, etc. to stakeholders? 
-Researchers/engineers are making design decisions that aren’t captured in real time; this disallows transparency overall.
+Researchers/engineers are making design decisions that aren't captured in real time; this disallows transparency overall.
 - Is there a process developed by which people can correct errors in input data, training data, or in output decisions?
 - If appropriate, is there a way for data to be removed when necessary (e.g., the right to be forgotten as practiced in the EU and Argentina)?
 
@@ -52,7 +66,7 @@ or by the algorithm/system you are building?
 For example, consider whether the following aspects of people's identities will have impacts on their equitable access to and 
 results from the system: race, sex, gender identity, ability status, socio-economic status, education level, religion, country of origin.
 - When using human data, do the benefits outweigh the risks to those involved?
-- Will there be a calculation of the error rates and types (e.g., false positives vs. false negatives) for different sub-populations and also an assesment of the potential differential impacts?
+- Will there be a calculation of the error rates and types (e.g., false positives vs. false negatives) for different sub-populations and also an assessment of the potential differential impacts?
    - What are the effects of false positives or false negatives on the subjects who are misclassified?
 - Consider the benefits of a project and the potential harm to those affected by it. 
 For example, Michal Kosinski and Yilun Wang at Stanford created a vision application that predicts sexual preference by analyzing 
@@ -75,21 +89,40 @@ appropriate for the general public. (8th-grade reading level is appropriate)
 
 ## Physical interaction
 
-If the project is working with technology that interactions with people, respect for individual autonomy must be considered.
+Much of the concern related to AI has to do with respecting individuals'
+privacy and rights. Risk of physical injury may also be a concern with certain
+projects. Broadly speaking users should be aware of possible risks and
+developers should think through potential unintended consequences of
+interacting with the technology.
 
 - Is there the equivalent of informed consent for the usage?
-- Will individuals interacting with the technology understand the capabilities and limits of it?
+- Will individuals interacting with the technology understand the capabilities
+  and limits of it?
 - Does the design minimize potential risk? 
 - Do the warning signals match the severity of the danger?
 
 ## Misuse and malicious intent
 
-- Is there a description of the ideal outcome of the design, including how this outcome looks across technological, cultural, social, institutional and organizational spheres.
-   - Useful exercize: Draw a timeline for 5-10 years in the future. Place your ideal outcome at the end of the timeline, and chart out potential obstacle and consequences leading up to it. Repeat until you have three possible timelines. Did any of these timelines account for possible negative consequences?
-- Are there guardrails in place to prevent malicious usage (the intentional misuse of the design)?
+One of the most often overlooked concern is how a technology might be misused.
+Misuse can happen either by mistake, overconfidence in the technology, or by
+bad actors trying to subvert it. In all cases care should be taken to mitigate
+potential harm and provide appropriate restrictions to limit misuse.
+
+- Is there a description of the ideal outcome of the design, including how this
+  outcome looks across technological, cultural, social, institutional and
+  organizational spheres.
+    - Useful exercise: Draw a timeline for 5-10 years in the future. Place your
+      ideal outcome at the end of the timeline, and chart out potential obstacle
+      and consequences leading up to it. Repeat until you have three possible
+      timelines. Did any of these timelines account for possible negative
+      consequences?
+- Are there guardrails in place to prevent malicious usage (the intentional
+  misuse of the design)?
 - Has the system been adequately secured to prevent unwarranted manipulation?
-- If physical devices are used, are they adequately secured from hacking or subversion? 
-For example, baby monitors were hijacked to launch [botnet attacks](https://gitlab-internal.parc.com/ai-ethics/ai-ethics-committee.git).
+- If physical devices are used, are they adequately secured from hacking or
+  subversion? 
+    - For example, baby monitors were hijacked to launch [botnet
+      attacks](https://gitlab-internal.parc.com/ai-ethics/ai-ethics-committee.git).
 
 ## Miscellaneous
 
@@ -106,9 +139,9 @@ For example, baby monitors were hijacked to launch [botnet attacks](https://gitl
 
 ## Possible points of discussion
 
-- Do you trust the client you’re working with?
+- Do you trust the client you're working with?
 - Is the the group pursuing diversity, equity and, other means of inclusion within the teams (i.e.,is the team working on the project diverse)? This will help to identify and prevent inadvertent discrimination.
-- Useful exercize: Imagine yourself subject to all possible outcomes of a system, are they all equally fair and just from that point-of-view? (e.g., John Rawls theory of justice)
+- Useful exercise: Imagine yourself subject to all possible outcomes of a system, are they all equally fair and just from that point-of-view? (e.g., John Rawls theory of justice)
 
 ## Sources
 
