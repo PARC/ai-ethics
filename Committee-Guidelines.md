@@ -55,6 +55,8 @@ Researchers/engineers are making design decisions that aren't captured in real t
 
 ## Social impact
 
+AI is increasingly becoming a more prominent part of many aspects of our lives, including decision-making processes that could alter the course of it. Succesful technologies aim to not make the possible social impact an afterthought or taxation on a project but actively think how to prevent harm while the system is being developed. 
+
 ### AI decisions that could bias or alter societal norms
 
 - Are there particular groups which may be advantaged or disadvantaged, in the context in which you are deploying, 
@@ -131,6 +133,8 @@ potential harm and provide appropriate restrictions to limit misuse.
 - Who will have the power to decide on necessary changes to the algorithmic system during design stage, pre-launch, and post-launch?
 
 ## Post deployment
+
+The responsibility of a design or system doesn't always end at the handoff. Although every effort should be made to prevent unexpected outcomes considering a sunset plan before delivering the project to the client can prevent confusion about how to solve unforeseen consequences.
 
 - Is there a plan to take action to ensure individuals and groups have access to meaningful remedy and redress. This may include, for example, creating clear, independent, and visible processes for redress following adverse individual or societal effects.
 - What will the reporting process and process for recourse be?
