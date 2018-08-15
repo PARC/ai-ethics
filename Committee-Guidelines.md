@@ -83,6 +83,8 @@ appropriate for the general public. (8th-grade reading level is appropriate)
 
 ## Environmental impact
 
+Where AI has been doing exceptional things for the environment, from [wildlife protection](https://news.nationalgeographic.com/2016/06/paws-artificial-intelligence-fights-poaching-ranger-patrols-wildlife-conservation/) to [advancing agriculture](https://www.ibm.com/blogs/client-voices/feed-future-generations-cognitive-precision-farming/) to feed the world's growing population, resource conservation while deploying the system itself might be an overseen segment of the design. 
+
 - Consider the energy impact of the computational resources necessary for the project. Is there a way to minimize that impact? Can the computation be handled differently to use less energy?
 - Do resources provisioned for the project match the requirements or are they too excessive?
 - Does the algorithm/system/design encourage unsustainable behavior?
