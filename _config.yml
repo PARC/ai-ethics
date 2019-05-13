@@ -4,3 +4,7 @@ title: AI Ethics @ PARC
 description: This project contains documents and notes for the PARC Ethics Review Committee.
 baseurl: "/ai-ethics" 
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json", "README.md",  "script/", "LICENSE.txt", "lib/", "bin/", "Rakefile"]
+
+aux_links:
+  "AI Ethics on GitHub":
+    - "//github.com/PARC/ai-ethics"
