@@ -1,4 +1,13 @@
+---
+layout: default
+title: Mechanics
+nav_order: 4
+---
+
 # Mechanics of the committee
+
+![]({{ site.url }}/ai-ethics/assets/images/all_stakeholders_comp.jpg)
+
 
 The committee will serve both as an ethics review body and as an Internal
 Review Board for human subjects research.

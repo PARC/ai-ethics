@@ -1,3 +1,9 @@
+---
+layout: default
+title: Mission Statement
+nav_order: 3
+---
+
 # Ethics Review Committee Statement
 
 ## Introduction
