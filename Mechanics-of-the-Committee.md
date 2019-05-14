@@ -1,3 +1,8 @@
+---
+layout: default
+title: Mechanics
+nav_order: 4
+---
 # Mechanics of the committee
 
 ![]({{ site.url }}/ai-ethics/assets/images/all_stakeholders_comp.jpg)
@@ -55,9 +60,3 @@ the required trainings will not be part of reviews.
 
 Anyone who works at PARC may volunteer to serve on the committee. All members must
 fulfill the training obligations determined by the committee.
-
----
-layout: default
-title: Mechanics
-nav_order: 4
----
