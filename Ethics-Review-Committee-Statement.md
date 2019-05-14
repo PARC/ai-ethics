@@ -1,3 +1,8 @@
+---
+layout: default
+title: Mission Statement
+nav_order: 3
+---
 # Ethics Review Committee Statement
 
 ## Introduction
@@ -59,9 +64,3 @@ nav_order: 3
 
 ## Incident response
 If a failure occurs, the committee should understand it and prevent it in the future
-
----
-layout: default
-title: Mission Statement
-nav_order: 3
----
