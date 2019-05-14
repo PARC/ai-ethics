@@ -1,6 +1,6 @@
 # AI Ethics Review Committee
 
-[](https://raw.githubusercontent.com/PARC/ai-ethics/master/assets/images/scale.png)
+![](https://raw.githubusercontent.com/PARC/ai-ethics/master/assets/images/scale.png)
 
 This project contains the process for the PARC's Ethics Review Committee.
 
