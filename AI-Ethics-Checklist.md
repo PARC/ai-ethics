@@ -1,3 +1,9 @@
+---
+layout: default
+title: AI Ethics Checklist
+nav_order: 2
+---
+
 # AI Ethics Checklist
 
 Use the following questions to determine if your project requires an ethics review by the committee. If your project does not include physical interaction with people or does not involve data about people or data representing populations of people, then no special review is likely needed unless you have a particular concern that you would like to be considered.
@@ -36,10 +42,3 @@ Physical interaction should be thought of broadly including machinery and also a
 | Is it in a public place? |  |  |
 | Is it hidden from anyone who might be recorded? In other words, could subjects be recorded without knowing they are being recorded?  |  |  |
 | Is it possible that any members of vulnerable populations (this could be any disadvantaged sub-segment of an overall population, e.g. children, prisoners, refugees, people facing discrimination) might be recorded?  |  |  |
-
-
----
-layout: default
-title: AI Ethics Checklist
-nav_order: 2
----
