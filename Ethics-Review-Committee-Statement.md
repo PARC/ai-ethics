@@ -1,9 +1,3 @@
----
-layout: default
-title: Mission Statement
-nav_order: 3
----
-
 # Ethics Review Committee Statement
 
 ## Introduction
@@ -21,7 +15,11 @@ The Ethics Review Committee has been established to provide assistance and guida
 The committee has the additional goal of pursuing diversity, equity and, other means of inclusion within the PARC research community as a way to identify and prevent inadvertent discrimination in our work.
 
 ## Reason(s)/justification for this committee
-
+---
+layout: default
+title: Mission Statement
+nav_order: 3
+---
 - commercial client’s DARPA requesting information about our ethics guidelines and perspective
 - not just about data, but also algorithms
 - misunderstanding/disagreement on the inherent bias of AI
@@ -61,3 +59,9 @@ The committee has the additional goal of pursuing diversity, equity and, other m
 
 ## Incident response
 If a failure occurs, the committee should understand it and prevent it in the future
+
+---
+layout: default
+title: Mission Statement
+nav_order: 3
+---
