@@ -1,5 +1,7 @@
 # Committee Guidelines
 
+![]({{ site.url }}/ai-ethics/assets/images/world_AI_ethics.jpg)
+
 This document helps the AI Ethics Committee ask questions to mitigate ethical
 concerns in PARC projects. Before starting the review of a PARC project,
 consider whether or not any of the committee members have a conflict of
