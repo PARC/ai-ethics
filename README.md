@@ -2,6 +2,8 @@
 
 ![](https://raw.githubusercontent.com/PARC/ai-ethics/master/assets/images/scale.png)
 
+[Our website](https://parc.github.io/ai-ethics/)
+
 This project contains the process for the PARC's Ethics Review Committee.
 
 Where to start:
