@@ -9,3 +9,4 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 aux_links:
   "AI Ethics on GitHub":
     - "//github.com/PARC/ai-ethics"
+theme: jekyll-theme-minimal
