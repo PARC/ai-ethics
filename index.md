@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# AI Ethics Review Committee
+# Palo Alto Research Center AI Ethics Review Committee
 
 This project contains the process for the PARC's Ethics Review Committee.
 
