@@ -4,8 +4,6 @@ title: Home
 
 # AI Ethics Review Committee
 
-![]({{ site.url }}/ai-ethics/assets/images/scale.png)
-
 This project contains the process for the PARC's Ethics Review Committee.
 
 Where to start:
