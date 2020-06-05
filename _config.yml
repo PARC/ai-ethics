@@ -1,5 +1,5 @@
 # theme: just-the-docs
-#remote_theme: pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs
 permalink: pretty
 title: PARC AI Ethics Committee
 description: This project contains documents and notes for the PARC Ethics Review Committee.
