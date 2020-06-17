@@ -127,8 +127,7 @@ potential harm and provide appropriate restrictions to limit misuse.
 - Has the system been adequately secured to prevent unwarranted manipulation?
 - If physical devices are used, are they adequately secured from hacking or
   subversion? 
-    - For example, baby monitors were hijacked to launch [botnet
-      attacks](https://gitlab-internal.parc.com/ai-ethics/ai-ethics-committee.git).
+    - For example, baby monitors were hijacked to launch [botnet attacks](https://gitlab-internal.parc.com/ai-ethics/ai-ethics-committee.git).
 
 ## Miscellaneous
 
@@ -137,6 +136,8 @@ potential harm and provide appropriate restrictions to limit misuse.
 ## Post deployment
 
 The responsibility of a design or system doesn't always end at the handoff. Although every effort should be made to prevent unexpected outcomes considering a sunset plan before delivering the project to the client can prevent confusion about how to solve unforeseen consequences.
+
+- Changing functionality of AI systems: the integration of software, including AI, into products can modify the functioning of such products and systems during their lifecycle. This is particularly true for systems that require frequent software updates or which rely on machine learning. These features can give rise to new risks that were not present when the system was placed on the market. These risks are not adequately addressed in the existing legislation which predominantly focuses on safety risks present at the time of placing on the market. (Taken from EU Whitepaper on AI, Feburary 2020)
 
 - Is there a plan to take action to ensure individuals and groups have access to meaningful remedy and redress. This may include, for example, creating clear, independent, and visible processes for redress following adverse individual or societal effects.
 - What will the reporting process and process for recourse be?
